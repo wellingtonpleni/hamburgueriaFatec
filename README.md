@@ -22,6 +22,15 @@ npm i
 expo start
 ```
 
+## Erro no Powershell (Apenas no Windows)
+Para corrigir o erro:
+expo : O arquivo C:\Users\Usuário\AppData\Roaming\npm\expo.ps1 não pode ser carregado porque a execução de scripts foi desabilitada neste sistema. Para obter mais informações, consulte about_Execution_Policies em 
+https://go.microsoft.com/fwlink/?LinkID=135170.
+
+Informe no prompt do Powershell:
+```
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
 
 ## Meta
 Prof. Ricardo Leme – [@ricardoleme](https://twitter.com/ricardorleme) – ricardo.leme@fatec.sp.gov.br
