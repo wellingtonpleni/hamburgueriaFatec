@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "hamburgueria",
+    "name": "🍔Hamburgueria",
     "slug": "hamburgueria",
+    "description": "Exemplo de Animações em ReactJS utilizando Moti",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
