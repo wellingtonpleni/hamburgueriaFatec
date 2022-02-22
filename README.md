@@ -1,4 +1,4 @@
-# Projeto Hamburgueria - Moti com Expo
+# 🍔Projeto Hamburgueria - Moti com Expo
 > 🍔 Exemplo de UI em Expo com animações utilizando o Moti
 
 Projeto utilizado nas aulas de Programação para Dispositivos Móveis na FATEC Itu. (Faculdade de Tecnologia Dom Amaury Castanho).  
