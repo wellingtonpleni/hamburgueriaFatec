@@ -24,6 +24,12 @@ npm i
 expo start
 ```
 
+## Veja o projeto no seu celular
+Instale o ![Expo Go](https://expo.dev/client) e acesse o link abaixo para ler o QR-Code:
+
+https://expo.dev/@ricardoleme-fatecitu/hamburgueria?serviceType=classicc&distribution=expo-go
+
+
 ## Erro no Powershell (Apenas no Windows)
 Para corrigir o erro:
 expo : O arquivo C:\Users\Usuário\AppData\Roaming\npm\expo.ps1 não pode ser carregado porque a execução de scripts foi desabilitada neste sistema. Para obter mais informações, consulte about_Execution_Policies em 
