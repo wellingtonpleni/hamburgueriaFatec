@@ -25,7 +25,7 @@ expo start
 ```
 
 ## Veja o projeto no seu celular
-Instale o ![Expo Go](https://expo.dev/client) e acesse o link abaixo para ler o QR-Code:
+Instale o [Expo Go](https://expo.dev/client) e acesse o link abaixo para ler o QR-Code:
 
 https://expo.dev/@ricardoleme-fatecitu/hamburgueria?serviceType=classicc&distribution=expo-go
 
